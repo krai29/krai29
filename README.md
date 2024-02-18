@@ -5,27 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krai29&theme=radical&bg_colour=#0E1118" alt="krai29" /></a> </p>
 
-
-- 🔭 I’m currently working on [SecureChainHR](https://github.com/codinggeek1/EmployeeManagement)
-
-- 🌱 I’m currently learning **Java**
-
-- 🤝 I’m looking for help with [SecureChainHR](https://github.com/codinggeek1/EmployeeManagement)
-
--    Devfolio [Blog](https://devfolio.co/@codinggeek1)
-
 - 📫 Mail me @ [Email](mailto:karan29rai.g@gmail.com)
-
-- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/16Q3dSkNuk1W7DzeyfrAwHg2VaTv6RR5E/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanbrai29/) 
 
 ---
-
-<h3>🛠 Tech Stacks and Softwares</h3>
-
 
 ![krai29's github stats](https://github-readme-stats.vercel.app/api?username=krai29&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_coloue=#0E1118&colour=#0E1118)
 
