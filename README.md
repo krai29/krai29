@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm PARDHIV VARMA</h1>
+<h1 align="center">Hi 👋, I'm KARAN</h1>
 <h3 align="center">A self-motivated Full-stack Web developer and a Blockchain Enthusiast from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codinggeek1&label=Profile%20views&color=0e75b6&style=flat" alt="codinggeek1&theme=radical" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krai29&label=Profile%20views&color=0e75b6&style=flat" alt="krai29&theme=radical" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codinggeek1&theme=radical&bg_colour=#0E1118" alt="codinggeek1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krai29&theme=radical&bg_colour=#0E1118" alt="krai29" /></a> </p>
 
 
 - 🔭 I’m currently working on [SecureChainHR](https://github.com/codinggeek1/EmployeeManagement)
-
-  <img align="right" src="https://github.com/codinggeek1/codinggeek1/blob/459c3e2a88279c05371de14b4e2c1c3baf5689de/img.png" width="230">
 
 - 🌱 I’m currently learning **Java**
 
