@@ -33,12 +33,12 @@
 
 ---
 
-![codinggeek1's github stats](https://github-readme-stats.vercel.app/api?username=codinggeek1&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_coloue=#0E1118&colour=#0E1118)
+![krai29's github stats](https://github-readme-stats.vercel.app/api?username=krai29&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_coloue=#0E1118&colour=#0E1118)
 
 <p align="left">
-    <a href="https://github.com/codinggeek1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pardhiv Varma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codinggeek1&theme=radical&hide_border=true&stroke=0000&bg_colour=#0E1118"/>
+    <a href="https://github.com/krai29/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Karan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=krai29&theme=radical&hide_border=true&stroke=0000&bg_colour=#0E1118"/>
     </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinggeek1&theme=radical&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_colour=#0E1118&colour=#0E1118)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krai29&theme=radical&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_colour=#0E1118&colour=#0E1118)
